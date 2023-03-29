@@ -1,6 +1,6 @@
 ### Hi there 👋, Jasminka Mitrovski
 #### Software Tester
-![Software Tester](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Tester](christopher-gower-m_HRfLhgABo-unsplash.jpg)
 
 I am a Junior Software Tester with strong attention to detail. 
 Since I start testing, I learned how important is to be meticulous and a team player. 
