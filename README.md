@@ -1,22 +1,22 @@
 ![Software Tester](christopher-gower-m_HRfLhgABo-unsplash.jpg)
 
-### I'm Jasminka Mitrovski
+### Jasminka Mitrovski
 
 
 I am a Junior Software Tester with strong attention to detail. 
 Since I start testing, I learned how important is to be meticulous and a team player. 
 I like new challenges, that made me want to learn more and more about this domain and improve my skills every day. 
 My objective is to excel in a challenging and innovative QA work environment and aim to exercise my full potential. 
-That’s why I am looking for o company that will give me the chance to learn and develop myself as a Software Tester.
+That’s why I am looking for a company that will give me the chance to learn and develop myself as a Software Tester.
 
 #### Skills
--Robot Framework 
--MySQL 
--SQL
--Manual testing 
--Postman 
--HTML 
--JMeter
+Robot Framework\
+MySQL\
+SQL\
+Manual testing\
+Postman\
+HTML\
+JMeter
 
 
 
